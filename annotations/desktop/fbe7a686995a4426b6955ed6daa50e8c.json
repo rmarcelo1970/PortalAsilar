@@ -1,0 +1,22 @@
+{
+    "active": 1,
+    "comments": {},
+    "requirements": {
+        "fbe7a686995a4426b6955ed6daa50e8c": {
+            "2e30-c4a4-2c18-4969-1942-267e": {
+                "createdById": "4552695983471",
+                "createdBy": "cristech informatica",
+                "createdByEmail": "rubens@cristech.com.br",
+                "label": "F",
+                "createdOn": "1726835238284",
+                "lastModifiedTime": 1726835238298,
+                "active": 0,
+                "widgetId": "fbe7a686995a4426b6955ed6daa50e8c",
+                "formId": "fbe7a686995a4426b6955ed6daa50e8c",
+                "channel": "desktop",
+                "requirementId": "2e30-c4a4-2c18-4969-1942-267e",
+                "body": "<p>GIT:</p><p>git remote add origin https://github.com/rmarcelo1970/PortalAsilar.git\ngit branch -M main\ngit push -u origin main</p><p><br></p>"
+            }
+        }
+    }
+}

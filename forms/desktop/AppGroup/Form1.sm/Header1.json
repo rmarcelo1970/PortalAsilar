@@ -1,0 +1,143 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "80px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7e3dd05064a43b08d7b18e53a769a8c",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "Header": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "c4efd7f8bab6417ab7d72e8028bd3e28",
+                "srcKUID": "u94392b99b70463b9714acd33a2e2e93",
+                "wType": "FlexContainer"
+            }
+        },
+        "HyperLinkContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gd4397426f0f4e39a4d3c39b9b0cda15",
+                "srcKUID": "u70fcf3aa6604c25a1e8b3559e1fa442",
+                "wType": "FlexContainer"
+            }
+        },
+        "Label2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gff57cd26cd144f0a9c37bba6aebdbba",
+                "srcKUID": "u6ee9ef9163242e3b9b71ee78394b457",
+                "wType": "Label"
+            }
+        },
+        "Label3": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dff88854adef4140a048bc17473867f5",
+                "srcKUID": "ueeab59faceb4bc39a68247eeedb8694",
+                "wType": "Label"
+            }
+        },
+        "Link1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b03b9814ce6749f8b59d1020ef09806e",
+                "srcKUID": "u4d81730b2f6479699fc35a197f7e7ff",
+                "wType": "Button"
+            }
+        },
+        "Link2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cf8eaa7193464be78b38e8c22abdb639",
+                "srcKUID": "u7ad0b95dc8249128a118e5f558a03d1",
+                "wType": "Button"
+            }
+        },
+        "Link3": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g8f310710f744b9291559e6eafb12ef6",
+                "srcKUID": "u556cf96af1743b585d836c17f891aa5",
+                "wType": "Button"
+            }
+        },
+        "Link4": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aa6e94f331db4a80b0bcc9ee320e4ac9",
+                "srcKUID": "u7a3ea21324a4cb7b7478d6329c6708f",
+                "wType": "Button"
+            }
+        },
+        "imageLogo": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d0d4c9bd32094263b4e0e0bad815d6cd",
+                "srcKUID": "u36323ee07924c52a6fb1f9a90403596",
+                "wType": "Image"
+            }
+        },
+        "label1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ea58deed4c2e4666a26b29fb3478dfd5",
+                "srcKUID": "uc28b0b9f6b34dba824db60daad4a607",
+                "wType": "Label"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "Header1",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "c4efd7f8bab6417ab7d72e8028bd3e28",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "Form1",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "u94392b99b70463b9714acd33a2e2e93",
+    "wType": "UserWidgetInstance"
+}
